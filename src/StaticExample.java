@@ -18,6 +18,7 @@ public class StaticExample {
         b.mary += 1; 
         System.out.println("a.joe " + a.joe + ", a.mary" + a.mary); 
         System.out.println("b.joe " + b.joe + ", b.mary" + b.mary); 
+		System.out.println("End staticExample...");
 	}
 
 }
