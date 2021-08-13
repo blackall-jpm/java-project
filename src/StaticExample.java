@@ -1,4 +1,7 @@
 
+//staticness of the variable relates to the memory space it sits in not it’s value. 
+//This means that the same variable is accessible from all class instances in which it is referenced.
+
 public class StaticExample {
     static int joe = 27; 
     int mary = 15; 

@@ -10,8 +10,11 @@ public class Wrapper {
 		//MathExamples mathObj = new MathExamples(); 
 		//mathObj.Output();
 		//static
-		StaticExample staticObj = new StaticExample(); 
-		staticObj.Output();
+		//StaticExample staticObj = new StaticExample(); 
+		//staticObj.Output();
+        //While
+		WhileExample whileObj = new WhileExample(); 
+		whileObj.Output();
 		
 
 	}
