@@ -19,7 +19,7 @@ public class WhileExample {
 			counter++;
 			System.out.println("counter=" + counter + " Total=" + total + " Grade=" + grade);
 		}
-		average = total/4;
+		average = total/MAX;
 		System.out.println("Your average is " + average);
 		scanin.close();
 	}
